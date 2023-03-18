@@ -7,3 +7,4 @@ function trocaImagem(imagem){
     let imgIphone = document.querySelector(".iPhone")
     imgIphone.src = imagem
 }
+
